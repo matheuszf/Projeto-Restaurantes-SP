@@ -33,6 +33,32 @@ Web scrapping com selenium foi utilizado para extrair informações do site http
 - Pandas
 - Selenium
 
+# Introdução
+
+Esse projeto visa analisar os dados de 11.053 restaurantes da cidade de São Paulo capital para extrair insights interessantes e abordar algumas questões.
+
+## Questões
+
+- Quais são os bairros com maior e menor número de restaurantes na cidade?
+- Qual a média de preço por bairro?
+- Qual a média de preço por tipo de cozinha em cada bairro?
+- Qual é a quantidade de restaurantes por tipo de cozinha em São Paulo?
+- Quais são os 4 tipos predominantes de cozinha na cidade?
+- Qual o tipo de cozinha predonominante em cada bairro?
+- Qual o preço médio para duas pessoas dos restaurantes analisados?
+
+# Público alvo
+
+Os dados obtidos podem ser úteis tanto para empreendedores como para clientes.
+Empreendedores podem buscar qual tipo de cozinha é mais frequente em cada bairro e sua média de preço.
+Clientes podem buscar o tipo de cozinha baseado na média de preço e no bairro estipulado.
+
+# Ferramenta de visualização
+
+O Tableau tem sido usado como ferramenta de visualização de dados, pois é uma plataforma de análise muito poderosa, segura e flexível, onde podemos visualizar nossos dados rápida e facilmente criando painéis interativos e uma história geral usando o storyboard.
+
+![alt text](https://github.com/matheuszf/Porject-AirBnb/blob/main/Capturar.JPG)
+
 
 
 
