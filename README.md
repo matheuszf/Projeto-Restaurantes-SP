@@ -57,5 +57,5 @@ Clientes podem buscar o tipo de cozinha baseado na média de preço e no bairro 
 
 O Tableau tem sido usado como ferramenta de visualização de dados, pois é uma plataforma de análise muito poderosa, segura e flexível, onde podemos visualizar nossos dados rápida e facilmente criando painéis interativos e uma história geral usando o storyboard.
 
-<img src="https://github.com/matheuszf/Projeto-Restaurantes-SP/blob/main/Untitled-4-Trim.gif" width="100" height="100">
+<img src="https://github.com/matheuszf/Projeto-Restaurantes-SP/blob/main/Untitled-4-Trim.gif" width="400" height="400">
 
