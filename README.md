@@ -3,5 +3,7 @@
 </p>
 
 <div align="center">
-  Restaurantes-SP
+  Restaurantes-SP {
+  font-size: 75;
+}
 </div>
