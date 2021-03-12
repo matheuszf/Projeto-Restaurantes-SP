@@ -35,7 +35,7 @@ Web scrapping com selenium foi utilizado para extrair informações do site http
 
 # Introdução
 
-Esse projeto visa analisar os dados de 11.053 restaurantes da cidade de São Paulo capital para extrair insights interessantes e abordar algumas questões.
+Esse projeto visa analisar os dados de 11.053 restaurantes da cidade de São Paulo capital para obter informações relevantes e abordar algumas questões.
 
 ## Questões
 
