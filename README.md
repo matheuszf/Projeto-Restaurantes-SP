@@ -5,3 +5,20 @@
 <div align="center">
   Restaurantes-SP
 </div>
+
+## Dados
+Web scrapping com selenium foi utilizado para extrair informações do site https://www.zomato.com/pt/sao-paulo-sp que oferece os restaurantes mais conceituados de São Paulo - SP.
+
+## Pré-requisitos
+
+- Python
+- Selenium Webdriver - ChromeDriver
+- Algumas bibliotecas do Python
+
+### Bibliotecas
+
+- Pandas
+- Selenium
+
+
+
