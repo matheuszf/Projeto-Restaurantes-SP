@@ -4,6 +4,4 @@
 
 <div align="center">
   Restaurantes-SP {
-  font-size: 75;
-}
 </div>
