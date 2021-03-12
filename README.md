@@ -59,3 +59,10 @@ O Tableau tem sido usado como ferramenta de visualização de dados, pois é uma
 
 <img src="https://github.com/matheuszf/Projeto-Restaurantes-SP/blob/main/Untitled-4-Trim.gif" width="1000">
 
+
+## Tableau story link
+
+https://public.tableau.com/profile/matheus.zavagli#!/vizhome/ProjetoFinalRestairantesSP/Story1?publish=yes
+
+# Conclusão
+
