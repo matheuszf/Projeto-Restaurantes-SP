@@ -11,15 +11,15 @@ Web scrapping com selenium foi utilizado para extrair informações do site http
 
 ## Documentação do dataset
 
-name - Nome do restaurante
-price - Média de preço para duas pessoas
-type - Tipo de cozinha do restaurante
-bairro - Bairro onde o restaurante está localizado
-address - Endereço onde o restaurante está localizado
-url - Url do restaurante no site https://www.zomato.com/pt/sao-paulo-sp
-latitude - Latitude do restaurante
-longitude - Longitude do restaurante
-tipo_novo - Tipo de cozinha filtrado
+- name - Nome do restaurante
+- price - Média de preço para duas pessoas
+- type - Tipo de cozinha do restaurante
+- bairro - Bairro onde o restaurante está localizado
+- address - Endereço onde o restaurante está localizado
+- url - Url do restaurante no site https://www.zomato.com/pt/sao-paulo-sp
+- latitude - Latitude do restaurante
+- longitude - Longitude do restaurante
+- tipo_novo - Tipo de cozinha filtrado
 
 # Pré-requisitos
 
